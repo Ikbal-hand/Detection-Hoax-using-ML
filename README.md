@@ -61,7 +61,7 @@ Pastikan Anda telah menginstal `.NET SDK 8.0`.
 ## 📝 Artikel Terkait
 Penjelasan lengkap mengenai langkah-langkah pengerjaan, mulai dari instalasi di Ubuntu hingga penanganan error, dapat dibaca di artikel Medium saya:
 
-👉 **[Baca Artikel Medium Saya Disini](LINK_MEDIUM_ANDA_DISINI)**
+👉 **[Baca Artikel Medium Saya Disini]([LINK_MEDIUM_ANDA_DISINI](https://medium.com/@ikbal10222181/mendeteksi-berita-hoax-dengan-ml-net-cli-di-ubuntu-tanpa-coding-rumit-02863d61c291))**
 
 ---
 **Developed by:**
